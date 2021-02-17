@@ -32,3 +32,5 @@ Used both `wordcloud` and `nltk` to represent and give a deeper insight on the `
 Following few highlights from the graphs dispalyed:
 
 ![alt text](https://github.com/davideragone/Rome_house_market_analysis/blob/main/Pictures/worcloud.png)
+![alt text](https://github.com/davideragone/Rome_house_market_analysis/blob/main/Pictures/price_distribution.png)
+![alt text](https://github.com/davideragone/Rome_house_market_analysis/blob/main/Pictures/pairplot.png)
